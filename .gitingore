@@ -1,4 +1,4 @@
 .backups
-.ipynb_checkpoints
-Index
+.ipynb_checkpoints/
+Index/
 .gitignore
