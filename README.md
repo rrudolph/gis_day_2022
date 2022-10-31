@@ -14,3 +14,4 @@ This project was compiled in ArcGIS Pro 2.9.1 so earlier version may give you a 
 - Lots of lots of googling. I use keywords all the time like `arcpy delete` or `arcpy list featureclasses` or `arcpy environment variables`. The esri documentation is good and helps you if you get stuck on syntax for arcpy functions.
 - Tons of stuff on youtube obviously.
 - It's kind of impossible to remember all the syntax for the arcpy functions.  I highly recommend "cheating" and using the graphical tool in ArcGIS Pro and copy the Python command from the "Run" command drop down button.  Study the output, learn from it, modify it, and run it on its own.
+- The notebooks built into ArcGIS Pro are a fantastic way to learn. I recommend looking for tutorials online, and [this one from esri](https://learn.arcgis.com/en/projects/get-started-with-notebooks-in-arcgis-pro/) is good to get you acquainted with the interface.  
