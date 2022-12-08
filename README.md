@@ -9,7 +9,7 @@ This project was compiled in ArcGIS Pro 2.9.1 so earlier version may give you a 
 
 ## Tips on how to learn Python for GIS Professionals
 
-- Very nicely done [video] (https://www.youtube.com/watch?v=-XrfcQVjWcM) that gives a broad overview what Python is and what it can do for GIS professionals. 
+- Very nicely done [video](https://www.youtube.com/watch?v=-XrfcQVjWcM) that gives a broad overview what Python is and what it can do for GIS professionals. 
 - [learnpython.org](https://www.learnpython.org/) is a good free option. Not quite as polished as Code Academy, but free and it will hone in on the basic building blocks to get comfortable with the code syntax.
 - [codecademy.com](https://www.codecademy.com) has a slick web interface and very effective for learning, but the python 3 tutorial (I don't recommend learning python 2, it is deprecated) will cost you around $17 a month for the Pro Lite version.  I would suggest this if you're serious about learning good Python syntax basics, as you might have an easier time practicing in the web interface. You can also try the free trial for Pro if you're unsure. 
 - [freecodecamp.org](https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/) has a list of Python video tutorials. I've skimmed the first one and it looks very thorough. If you have ArcGIS Pro installed you can skip all the Python installation stuff since it's already installed. 
